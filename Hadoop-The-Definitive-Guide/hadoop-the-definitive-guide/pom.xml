@@ -8,5 +8,14 @@
     <artifactId>hadoop-the-definitive-guide</artifactId>
     <version>1.0.0</version>
 
+    <dependencies>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+
+        </plugins>
+    </build>
 
 </project>
